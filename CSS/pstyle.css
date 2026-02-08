@@ -1,0 +1,20 @@
+body{
+    background-image: url("../picture/webpic.jpg");
+}
+
+h1{
+    text-align: center;
+    color: brown;
+}
+div{
+    h2{
+    text-align: center;
+    color: blueviolet;
+    }
+    p{
+        color: solid black;
+        text-align: justify;
+    }
+
+    
+}
